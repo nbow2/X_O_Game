@@ -24,7 +24,7 @@ int main() {
 
     switch (y) {
 
-        case 2:
+        case 1:
         {
             cout << "Press 1 if you want to play with computer \n";
             cout << "Press 2 if you want to play with Friend \n";
