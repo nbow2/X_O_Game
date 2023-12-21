@@ -1,0 +1,27 @@
+# ninja log v5
+1	400	7245503735204918	build.ninja	613f9fb1c1c3c940
+5	1208	7245470174588940	CMakeFiles/X_O_game.dir/main.cpp.obj	a077c3f416311a68
+16	1268	7245470175187248	CMakeFiles/X_O_game.dir/Player.cpp.obj	3c4d472ac05d6f4e
+7	478	7245487606830731	CMakeFiles/X_O_game.dir/GameManger.cpp.obj	3e300d697e78ec8f
+25	1303	7245470175577260	CMakeFiles/X_O_game.dir/RandomPlayer.cpp.obj	943cf2a42aa02d53
+4	762	7245493403095115	CMakeFiles/X_O_game.dir/X_O_Board.cpp.obj	14919db57a407d20
+763	910	7245493404510038	X_O_game.exe	14601606db721420
+19	1340	7247371030686424	CMakeFiles/X_O_game.dir/RandomPlayer.cpp.obj	943cf2a42aa02d53
+9	1341	7247371030686424	CMakeFiles/X_O_game.dir/Player.cpp.obj	3c4d472ac05d6f4e
+4	1343	7247371030809361	CMakeFiles/X_O_game.dir/main.cpp.obj	a077c3f416311a68
+13	1348	7247371030926839	CMakeFiles/X_O_game.dir/GameManger.cpp.obj	3e300d697e78ec8f
+24	1742	7247371034878779	CMakeFiles/X_O_game.dir/X_O_Board.cpp.obj	14919db57a407d20
+1743	2324	7247371040691348	X_O_game.exe	14601606db721420
+5	1026	7248834482506994	CMakeFiles/X_O_game.dir/main.cpp.obj	a077c3f416311a68
+10	1050	7248834482812004	CMakeFiles/X_O_game.dir/Player.cpp.obj	3c4d472ac05d6f4e
+13	1061	7248834482912012	CMakeFiles/X_O_game.dir/GameManger.cpp.obj	3e300d697e78ec8f
+23	1066	7248834482962048	CMakeFiles/X_O_game.dir/RandomPlayer.cpp.obj	943cf2a42aa02d53
+18	1442	7248834486738603	CMakeFiles/X_O_game.dir/X_O_Board.cpp.obj	14919db57a407d20
+4	924	7248837046346121	CMakeFiles/X_O_game.dir/X_O_Board.cpp.obj	14919db57a407d20
+4	461	7248837866653793	CMakeFiles/X_O_game.dir/GameManger.cpp.obj	3e300d697e78ec8f
+12	1157	7248838391163802	CMakeFiles/X_O_game.dir/GameManger.cpp.obj	3e300d697e78ec8f
+7	1233	7248838392024488	CMakeFiles/X_O_game.dir/main.cpp.obj	a077c3f416311a68
+25	1303	7248838392514610	CMakeFiles/X_O_game.dir/RandomPlayer.cpp.obj	943cf2a42aa02d53
+16	1311	7248838392779815	CMakeFiles/X_O_game.dir/Player.cpp.obj	3c4d472ac05d6f4e
+20	1760	7248838397332016	CMakeFiles/X_O_game.dir/X_O_Board.cpp.obj	14919db57a407d20
+1760	1992	7248838399606508	X_O_game.exe	14601606db721420
